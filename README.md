@@ -1,3 +1,8 @@
+# Deprecated
+
+Moved to https://github.com/goph/serverz
+
+
 # Serverz
 
 [![Build Status](https://img.shields.io/travis/sagikazarmark/serverz.svg?style=flat-square)](https://travis-ci.org/sagikazarmark/serverz)
